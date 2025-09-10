@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Sahara Café",
+    "address": "123 Desert Road, Timbuktu",
+    "phone": "+223 123 456 789",
+    "website": "https://saharacafe.example.com",
+    "image": "cafe.jpg",
+    "membership": 3
+  },
+  {
+    "name": "Timbuktu Books",
+    "address": "45 Library Street, Timbuktu",
+    "phone": "+223 987 654 321",
+    "website": "https://timbuktubooks.example.com",
+    "image": "books.jpg",
+    "membership": 2
+  },
+  {
+    "name": "Nomad Tours",
+    "address": "78 Caravan Lane, Timbuktu",
+    "phone": "+223 456 789 123",
+    "website": "https://nomadtours.example.com",
+    "image": "nomas.webp",
+    "membership": 1
+  },
+  {
+    "name": "Oasis Market",
+    "address": "12 Palm Avenue, Timbuktu",
+    "phone": "+223 222 333 444",
+    "website": "https://oasismarket.example.com",
+    "image": "R.jpeg",
+    "membership": 3
+  },
+  {
+    "name": "Golden Sands Hotel",
+    "address": "90 Sunset Blvd, Timbuktu",
+    "phone": "+223 111 222 333",
+    "website": "https://goldensands.example.com",
+    "image": "OIP.webp",
+    "membership": 3
+  },
+  {
+    "name": "Blue Dunes Transport",
+    "address": "34 Transit Road, Timbuktu",
+    "phone": "+223 444 555 666",
+    "website": "https://bluedunes.example.com",
+    "image": "transport.webp",
+    "membership": 2
+  },
+  {
+    "name": "Savanna Tech",
+    "address": "56 Innovation Park, Timbuktu",
+    "phone": "+223 777 888 999",
+    "website": "https://savannatech.example.com",
+    "image": "tech.jpg",
+    "membership": 1
+  }
+]
